@@ -1,5 +1,6 @@
-require_relative def
-'../current_age_for_birth_year.rb'
+require_relative'../current_age_for_birth_year.rb'
+def 
+  current_age_for_birth_year
 end
 
 describe "current_age_for_birth_year method" do
